@@ -16,3 +16,9 @@
 * wgs84 ellipsoid, which is slightly more accurate than GRS80.
 * SRID = 4326       
 ##### This datum gets updated periodically as the earths plates move using stations throughout the world.
+
+### To access a remote server, you will need to also create a config.py file with the following format:
+##### password = "abcdefg_example"
+##### host = "db.example.org"
+##### dbname = "example_db"
+##### user = "jdoe"
