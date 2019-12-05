@@ -1,5 +1,5 @@
 # upload_shapefiles_2_postgres
-### This pythin script will enable you to upload multiple shape files to a postgres server with the appropriate SRID.
+### This python script will enable you to upload multiple shape files to a postgres server with the appropriate SRID.
 
 #### Additional Notes: 
 
