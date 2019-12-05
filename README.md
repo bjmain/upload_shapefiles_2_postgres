@@ -2,8 +2,8 @@
 #### Additional Notes: 
 
 #### DPR GIS shapefiles use the: 
-#####     NAD83 datum (GRS80 ellisoid) and 
-#####     the California (Teale) Albers projection (translation from ellipsoid to map) 
+⋅⋅* NAD83 datum (GRS80 ellisoid) and 
+⋅⋅* the California (Teale) Albers projection (translation from ellipsoid to map) 
 ##### spatial reference system identifier (SRID) = 3310
 ##### This North American Datum remains constant over time for points on the North American plate.
 ##### http://wiki.spatialmanager.com/index.php/Coordinate_Systems_objects_list
